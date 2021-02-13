@@ -7,6 +7,7 @@ export default function Home() {
       <Link to="/about/">About</Link>
       <h1>This is sparta</h1>
       <p>Hello Jon!</p>
+      <p>Testing CI/CD</p>
       <img src="https://source.unsplash.com/random/400x200" alt="" />
     </div>
   )
